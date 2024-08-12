@@ -36,7 +36,7 @@ This project involves the extraction and analysis of textual data from a set of 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/gautamiKohirkar24/yourrepository.git
     cd yourrepository
     ```
 
